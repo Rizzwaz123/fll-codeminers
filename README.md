@@ -1,4 +1,4 @@
-Work in progress Python for our robot by team name "codeminers".
+Work in progress Python for our robot by team name "Codeminers".
 
 Quick Links:
   1. https://spike.legoeducation.com/prime/lobby/
