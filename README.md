@@ -1,5 +1,3 @@
-Work in progress Python for our First Lego League robot by team name "Codeminers".
-
 Hyperlinks:
   1. https://spike.legoeducation.com/prime/lobby/
   2. https://github.com/apps/desktop
