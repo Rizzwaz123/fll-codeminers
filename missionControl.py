@@ -10,10 +10,12 @@ attachment_left=port.C
 attachment_right=port.A
 motor_pair.pair(motor_pair.PAIR_1, MoveMotor1, MoveMotor2)
 
+#DO NOT CHANGE AT ALL. THIS IS THE CODE WE USED AT FIRST QUALIFIER
+
 def distance_to_degrees(distance):
     return (distance/360)*wheel_circumference
 
-async def move_distance(distance, direction, vel):
+async def move_distance(distance, direction, vel)
     # print("In moveStraight")
     motion_sensor.reset_yaw(0)
     # Setting starting point and yaw to 0
